@@ -1,7 +1,7 @@
 # Zenya-virtualAI
 A smart companion that helps you get things done, answers your questions, and chats with you whenever you want.
 
-For Windows
+# For Windows
 Download the zip file and unzip it in file explorer
 Copy the file location and open CMD prompt
 Make sure that you have installed pip & python
@@ -17,7 +17,7 @@ Your program is installed and ready to use
 
 If all these steps go right, then from next time you can simply copy paste your file location and code "python main.py" to use the program.
 
-For Linux
+# For Linux
 Code:
 
 A. git clone https://github.com/Vidushinegi22/Zenya-virtualAI
