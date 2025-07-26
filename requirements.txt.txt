@@ -1,0 +1,16 @@
+
+
+times
+random2
+pygame
+windows-curses
+numpy
+
+pypiwin32
+
+speechRecognition
+pyttsx3
+Datetime
+wikipedia
+
+os-win
